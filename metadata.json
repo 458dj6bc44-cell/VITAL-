@@ -1,0 +1,6 @@
+{
+  "name": "VITALØ — Precision Performance Supplements",
+  "description": "Fuel your everyday. Award-winning modern DTC supplement store with precision formulas and seamless WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
